@@ -3,11 +3,9 @@
 
  **Website** : <a href="https://joshvdp.github.io/">www.joshvdp.com</a>
 
- **EMAIL** : joshuaver.delapena@gmail.com | joshvdp.dev@gmail.com
+ **Email**: joshuaver.delapena@gmail.com | joshvdp.dev@gmail.com</p>
 
  **itch.io** : <a href="https://kakaroot64.itch.io/">kakaroot64</a>
-
-
 
 <h3 align="left">Contact:</h3>
 <p align="left">
@@ -15,6 +13,7 @@
 <a href="https://stackoverflow.com/users/22455577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22455577" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/joshvdp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/joshvdp" height="30" width="40" /></a>
 <a href="https://hashnode.com/@joshvdp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@joshvdp" height="30" width="40" /></a>
+<a href="https://discord.gg/787856529273258054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="787856529273258054" height="30" width="40" /></a>
 </p>
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
