@@ -3,7 +3,7 @@
 
  **Website** : <a href="https://joshvdp.github.io/">www.joshvdp.com</a>
 
- **Email**: joshuaver.delapena@gmail.com | joshvdp.dev@gmail.com</p>
+ **Email**: joshuaver.delapena@protonmail.com | joshvdp.dev@gmail.com</p>
 
  **itch.io** : <a href="https://kakaroot64.itch.io/">kakaroot64</a>
 
